@@ -11,7 +11,7 @@ header{
     padding:10px 5%;
 }
 .Hero-container{
-    background-image: url(/img/grayscale-photo-of-new-york-timesquare-1012508.jpg);
+    background-image: url(img/grayscale-photo-of-new-york-timesquare-1012508.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     height:500px;
